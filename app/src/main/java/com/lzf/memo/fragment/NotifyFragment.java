@@ -3,31 +3,39 @@
  */
 package com.lzf.memo.fragment;
 
-import android.annotation.SuppressLint;
-import android.app.Fragment;
-import android.content.Intent;
-import android.os.Bundle;
-import android.view.LayoutInflater;
-import android.view.View;
-import android.view.ViewGroup;
-import android.widget.AdapterView;
-import android.widget.AdapterView.OnItemClickListener;
-import android.widget.ListView;
-import android.widget.TextView;
-
-import com.lzf.memo.AddModifyActivity;
-import com.lzf.memo.R;
-import com.lzf.memo.bean.Memo;
-import com.lzf.memo.util.ReusableAdapter;
-
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.annotation.SuppressLint;
+import android.annotation.TargetApi;
+import android.app.AlertDialog;
+import android.app.Fragment;
+import android.app.AlertDialog.Builder;
+import android.content.DialogInterface;
+import android.content.Intent;
+import android.os.Build;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+import android.widget.AdapterView;
+import android.widget.ListView;
+import android.widget.TextView;
+import android.widget.AdapterView.OnItemClickListener;
+
+import com.lzf.memo.AddModifyActivity;
+import com.lzf.memo.MainActivity;
+import com.lzf.memo.R;
+import com.lzf.memo.bean.Memo;
+import com.lzf.memo.util.ReusableAdapter;
+
 /**
  * @author MJCoder
  */
-@SuppressLint("NewApi")
+@TargetApi(Build.VERSION_CODES.HONEYCOMB)
+@SuppressLint("ValidFragment")
 public class NotifyFragment extends Fragment {
     private ReusableAdapter adapter;
     private ListView notifyList;
@@ -36,7 +44,7 @@ public class NotifyFragment extends Fragment {
     private List<Memo> notifyShow = new ArrayList<Memo>();
     private List<Memo> notifyCourier;
     private SimpleDateFormat simpleDateFormat = new SimpleDateFormat(
-            "yyyy年MM月dd日 HH:mm");
+            "yyyy��MM��dd�� HH:mm");
 
     public NotifyFragment(List<Memo> notifyCourier) {
         super();
