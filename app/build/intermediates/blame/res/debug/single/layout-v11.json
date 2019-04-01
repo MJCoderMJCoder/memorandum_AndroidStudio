@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_simple_decor.xml",
+        "source": "C:\\Users\\MJCoder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-20.0.0.aar\\3e2cef6e029c593f12c8dea1481262e2\\res\\layout-v11\\abc_simple_decor.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\abc_action_bar_decor.xml",
+        "source": "C:\\Users\\MJCoder\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-20.0.0.aar\\3e2cef6e029c593f12c8dea1481262e2\\res\\layout-v11\\abc_action_bar_decor.xml"
+    }
+]
