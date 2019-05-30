@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\notify_icon.xml",
+        "source": "E:\\Android\\workspace\\memo\\app\\src\\main\\res\\drawable-ldpi\\notify_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\search_icon.xml",
+        "source": "E:\\Android\\workspace\\memo\\app\\src\\main\\res\\drawable-ldpi\\search_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\menu_text.xml",
+        "source": "E:\\Android\\workspace\\memo\\app\\src\\main\\res\\drawable-ldpi\\menu_text.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\group_icon.xml",
+        "source": "E:\\Android\\workspace\\memo\\app\\src\\main\\res\\drawable-ldpi\\group_icon.xml"
+    },
+    {
+        "merged": "E:\\Android\\workspace\\memo\\app\\build\\intermediates\\res\\merged\\release\\drawable-ldpi-v4\\list_icon.xml",
+        "source": "E:\\Android\\workspace\\memo\\app\\src\\main\\res\\drawable-ldpi\\list_icon.xml"
+    }
+]

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\bc241c23aba223023ec57da6d6bc5c56\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="28.0.3"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="E:\Android\workspace\memo\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\appcompat-v7-20.0.0.aar\3e2cef6e029c593f12c8dea1481262e2\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="E:\Android\workspace\memo\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android\android-studio-ide-171.4443003-windows\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="28.0.3"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="E:\Android\workspace\memo\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\MJCoder\.gradle\caches\transforms-1\files-1.1\support-v4-20.0.0.aar\bc241c23aba223023ec57da6d6bc5c56\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="8"
+        optimize="true"
+        revision="28.0.3"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="E:\Android\workspace\memo\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+
+</items>
